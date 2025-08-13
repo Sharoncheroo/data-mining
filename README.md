@@ -17,7 +17,7 @@ Data Mining/
 ├── requirements.txt  # Python dependencies
 └── .gitignore        # Ignored files and folders
 
-...
+```
 
 ## ⚙️ Installation
 1. Clone the repository:
