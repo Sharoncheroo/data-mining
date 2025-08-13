@@ -34,8 +34,8 @@ Data Mining/
    ```bash 
    pip install -r requirements.txt
 
-🚀 Usage
+## 🚀 Usage
 Run notebooks in notebooks/ or scripts in scripts/ to reproduce analysis.
 
-📊 Results
+## 📊 Results
 All results and visualizations are stored in the results/ folder.
